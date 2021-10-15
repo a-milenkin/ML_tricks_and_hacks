@@ -1,2 +1,2 @@
-# ML_trics_and_hacks
+# ML_tricks_and_hacks
 Куски кода и приемы, которые часто переиспользую 
