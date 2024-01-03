@@ -5,6 +5,7 @@
 
 ```
 import get_ab_group from ab_split
+
 print('Эксперимент воспроизводимый (легко расследовать, эвентов не задваиваются на беке)')
 print("Aleron ->", get_ab_group("Aleron", context="утро", n_groups=2))
 print("Aleron ->", get_ab_group("Aleron", context="утро", n_groups=2))
